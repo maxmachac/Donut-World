@@ -6,9 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-  <h1>csssss</h1>
-  ?php
-    echo "Hello, World!";
+<header>
+    <h1>Donut World</h1>
+</header>
+<img src="https://learn.alg.academy/uploads/2023/02/donut.png">
+  <?php
+    echo "Donut World!";
   ?>
     
 </body>
